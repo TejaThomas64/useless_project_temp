@@ -1,0 +1,76 @@
+model,actual,predicted,count
+Logistic Regression,RUPEE_1,RUPEE_1,3
+Logistic Regression,RUPEE_1,RUPEE_10,2
+Logistic Regression,RUPEE_1,RUPEE_2,14
+Logistic Regression,RUPEE_1,RUPEE_20,0
+Logistic Regression,RUPEE_1,RUPEE_5,8
+Logistic Regression,RUPEE_10,RUPEE_1,3
+Logistic Regression,RUPEE_10,RUPEE_10,9
+Logistic Regression,RUPEE_10,RUPEE_2,11
+Logistic Regression,RUPEE_10,RUPEE_20,6
+Logistic Regression,RUPEE_10,RUPEE_5,4
+Logistic Regression,RUPEE_2,RUPEE_1,6
+Logistic Regression,RUPEE_2,RUPEE_10,11
+Logistic Regression,RUPEE_2,RUPEE_2,4
+Logistic Regression,RUPEE_2,RUPEE_20,1
+Logistic Regression,RUPEE_2,RUPEE_5,5
+Logistic Regression,RUPEE_20,RUPEE_1,2
+Logistic Regression,RUPEE_20,RUPEE_10,10
+Logistic Regression,RUPEE_20,RUPEE_2,1
+Logistic Regression,RUPEE_20,RUPEE_20,4
+Logistic Regression,RUPEE_20,RUPEE_5,3
+Logistic Regression,RUPEE_5,RUPEE_1,8
+Logistic Regression,RUPEE_5,RUPEE_10,3
+Logistic Regression,RUPEE_5,RUPEE_2,8
+Logistic Regression,RUPEE_5,RUPEE_20,4
+Logistic Regression,RUPEE_5,RUPEE_5,7
+Random Forest,RUPEE_1,RUPEE_1,11
+Random Forest,RUPEE_1,RUPEE_10,0
+Random Forest,RUPEE_1,RUPEE_2,9
+Random Forest,RUPEE_1,RUPEE_20,0
+Random Forest,RUPEE_1,RUPEE_5,7
+Random Forest,RUPEE_10,RUPEE_1,2
+Random Forest,RUPEE_10,RUPEE_10,12
+Random Forest,RUPEE_10,RUPEE_2,2
+Random Forest,RUPEE_10,RUPEE_20,12
+Random Forest,RUPEE_10,RUPEE_5,5
+Random Forest,RUPEE_2,RUPEE_1,8
+Random Forest,RUPEE_2,RUPEE_10,3
+Random Forest,RUPEE_2,RUPEE_2,10
+Random Forest,RUPEE_2,RUPEE_20,0
+Random Forest,RUPEE_2,RUPEE_5,6
+Random Forest,RUPEE_20,RUPEE_1,0
+Random Forest,RUPEE_20,RUPEE_10,10
+Random Forest,RUPEE_20,RUPEE_2,0
+Random Forest,RUPEE_20,RUPEE_20,6
+Random Forest,RUPEE_20,RUPEE_5,4
+Random Forest,RUPEE_5,RUPEE_1,5
+Random Forest,RUPEE_5,RUPEE_10,3
+Random Forest,RUPEE_5,RUPEE_2,9
+Random Forest,RUPEE_5,RUPEE_20,2
+Random Forest,RUPEE_5,RUPEE_5,11
+SVM,RUPEE_1,RUPEE_1,12
+SVM,RUPEE_1,RUPEE_10,1
+SVM,RUPEE_1,RUPEE_2,8
+SVM,RUPEE_1,RUPEE_20,0
+SVM,RUPEE_1,RUPEE_5,6
+SVM,RUPEE_10,RUPEE_1,2
+SVM,RUPEE_10,RUPEE_10,15
+SVM,RUPEE_10,RUPEE_2,5
+SVM,RUPEE_10,RUPEE_20,8
+SVM,RUPEE_10,RUPEE_5,3
+SVM,RUPEE_2,RUPEE_1,8
+SVM,RUPEE_2,RUPEE_10,6
+SVM,RUPEE_2,RUPEE_2,4
+SVM,RUPEE_2,RUPEE_20,0
+SVM,RUPEE_2,RUPEE_5,9
+SVM,RUPEE_20,RUPEE_1,0
+SVM,RUPEE_20,RUPEE_10,16
+SVM,RUPEE_20,RUPEE_2,0
+SVM,RUPEE_20,RUPEE_20,3
+SVM,RUPEE_20,RUPEE_5,1
+SVM,RUPEE_5,RUPEE_1,7
+SVM,RUPEE_5,RUPEE_10,6
+SVM,RUPEE_5,RUPEE_2,6
+SVM,RUPEE_5,RUPEE_20,4
+SVM,RUPEE_5,RUPEE_5,7

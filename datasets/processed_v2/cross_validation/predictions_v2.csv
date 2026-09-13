@@ -1,0 +1,412 @@
+model,fold,file,actual,predicted
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_10
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_1
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_5
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_5
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_1
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_5
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+Logistic Regression,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,1,impact14_4g.csv,RUPEE_20,RUPEE_5
+Logistic Regression,1,impact14_4g.csv,RUPEE_20,RUPEE_20
+Logistic Regression,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,1,impact14_4g.csv,RUPEE_20,RUPEE_20
+Logistic Regression,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,1,impact14_4g.csv,RUPEE_20,RUPEE_5
+Logistic Regression,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+Logistic Regression,2,impact10_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+Logistic Regression,2,impact3_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,2,impact3_4g.csv,RUPEE_1,RUPEE_5
+Logistic Regression,2,impact3_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,2,impact3_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+Logistic Regression,2,impact3_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,2,impact3_4g.csv,RUPEE_1,RUPEE_5
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_1
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_20
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_5
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_2
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_1
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_2
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_10
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_1
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_5
+Logistic Regression,2,impact8_4g.csv,RUPEE_5,RUPEE_10
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_5
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_10
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_10
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_5
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,3,impact4_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,3,impact4_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,3,impact4_4g.csv,RUPEE_2,RUPEE_1
+Logistic Regression,3,impact4_4g.csv,RUPEE_2,RUPEE_2
+Logistic Regression,3,impact4_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,3,impact4_4g.csv,RUPEE_2,RUPEE_5
+Logistic Regression,3,impact4_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_1
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_1
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_1
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_2
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_20
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_5
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_20
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_5
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_10
+Logistic Regression,3,impact9_4g.csv,RUPEE_5,RUPEE_5
+Logistic Regression,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+Logistic Regression,4,impact2_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,4,impact2_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+Logistic Regression,4,impact2_4g.csv,RUPEE_1,RUPEE_2
+Logistic Regression,4,impact2_4g.csv,RUPEE_1,RUPEE_1
+Logistic Regression,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+Logistic Regression,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_5
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_2
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_20
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_1
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_1
+Logistic Regression,4,impact13_4g.csv,RUPEE_20,RUPEE_20
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_20
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_1
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_2
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_2
+Logistic Regression,4,impact6_4g.csv,RUPEE_2,RUPEE_1
+Logistic Regression,5,impact12_4g.csv,RUPEE_10,RUPEE_1
+Logistic Regression,5,impact12_4g.csv,RUPEE_10,RUPEE_5
+Logistic Regression,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+Logistic Regression,5,impact12_4g.csv,RUPEE_10,RUPEE_20
+Logistic Regression,5,impact12_4g.csv,RUPEE_10,RUPEE_20
+Logistic Regression,5,impact12_4g.csv,RUPEE_10,RUPEE_2
+Logistic Regression,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+Logistic Regression,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+Logistic Regression,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_5
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_2
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_10
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+Logistic Regression,5,impact5_4g.csv,RUPEE_2,RUPEE_5
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_5
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_1
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_20
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_1
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_5
+Logistic Regression,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_5
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_1
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,1,impact14_4g.csv,RUPEE_20,RUPEE_5
+Random Forest,1,impact14_4g.csv,RUPEE_20,RUPEE_20
+Random Forest,1,impact14_4g.csv,RUPEE_20,RUPEE_20
+Random Forest,1,impact14_4g.csv,RUPEE_20,RUPEE_20
+Random Forest,1,impact14_4g.csv,RUPEE_20,RUPEE_20
+Random Forest,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_5
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_5
+Random Forest,2,impact10_4g.csv,RUPEE_10,RUPEE_5
+Random Forest,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,2,impact3_4g.csv,RUPEE_1,RUPEE_2
+Random Forest,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,2,impact3_4g.csv,RUPEE_1,RUPEE_2
+Random Forest,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,2,impact3_4g.csv,RUPEE_1,RUPEE_5
+Random Forest,2,impact3_4g.csv,RUPEE_1,RUPEE_5
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_20
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_2
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_1
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_1
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,2,impact8_4g.csv,RUPEE_5,RUPEE_10
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_5
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_5
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+Random Forest,3,impact4_4g.csv,RUPEE_2,RUPEE_10
+Random Forest,3,impact4_4g.csv,RUPEE_2,RUPEE_5
+Random Forest,3,impact4_4g.csv,RUPEE_2,RUPEE_1
+Random Forest,3,impact4_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,3,impact4_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,3,impact4_4g.csv,RUPEE_2,RUPEE_1
+Random Forest,3,impact4_4g.csv,RUPEE_2,RUPEE_5
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_2
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_2
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_10
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_20
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_2
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_10
+Random Forest,3,impact9_4g.csv,RUPEE_5,RUPEE_2
+Random Forest,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+Random Forest,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+Random Forest,4,impact2_4g.csv,RUPEE_1,RUPEE_2
+Random Forest,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+Random Forest,4,impact2_4g.csv,RUPEE_1,RUPEE_2
+Random Forest,4,impact2_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,4,impact2_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,4,impact2_4g.csv,RUPEE_1,RUPEE_1
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_5
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_20
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_20
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_5
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+Random Forest,4,impact13_4g.csv,RUPEE_20,RUPEE_5
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_1
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,4,impact6_4g.csv,RUPEE_2,RUPEE_1
+Random Forest,5,impact12_4g.csv,RUPEE_10,RUPEE_1
+Random Forest,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,5,impact12_4g.csv,RUPEE_10,RUPEE_5
+Random Forest,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+Random Forest,5,impact12_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,5,impact12_4g.csv,RUPEE_10,RUPEE_20
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_10
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_10
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+Random Forest,5,impact5_4g.csv,RUPEE_2,RUPEE_2
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_1
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_1
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_5
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_1
+Random Forest,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_10
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_10
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_10
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_10
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_1
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_10
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_20
+SVM,1,impact11_4g.csv,RUPEE_10,RUPEE_2
+SVM,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+SVM,1,impact14_4g.csv,RUPEE_20,RUPEE_5
+SVM,1,impact14_4g.csv,RUPEE_20,RUPEE_20
+SVM,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+SVM,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+SVM,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+SVM,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+SVM,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+SVM,1,impact14_4g.csv,RUPEE_20,RUPEE_10
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_10
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_20
+SVM,2,impact10_4g.csv,RUPEE_10,RUPEE_5
+SVM,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+SVM,2,impact3_4g.csv,RUPEE_1,RUPEE_2
+SVM,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+SVM,2,impact3_4g.csv,RUPEE_1,RUPEE_2
+SVM,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+SVM,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+SVM,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+SVM,2,impact3_4g.csv,RUPEE_1,RUPEE_1
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_20
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_10
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_1
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_2
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_1
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_5
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_20
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_1
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_5
+SVM,2,impact8_4g.csv,RUPEE_5,RUPEE_10
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_5
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_5
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_10
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_1
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_1
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_1
+SVM,3,impact1_4g.csv,RUPEE_1,RUPEE_2
+SVM,3,impact4_4g.csv,RUPEE_2,RUPEE_10
+SVM,3,impact4_4g.csv,RUPEE_2,RUPEE_10
+SVM,3,impact4_4g.csv,RUPEE_2,RUPEE_1
+SVM,3,impact4_4g.csv,RUPEE_2,RUPEE_2
+SVM,3,impact4_4g.csv,RUPEE_2,RUPEE_10
+SVM,3,impact4_4g.csv,RUPEE_2,RUPEE_1
+SVM,3,impact4_4g.csv,RUPEE_2,RUPEE_10
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_5
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_1
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_2
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_2
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_20
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_10
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_20
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_5
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_10
+SVM,3,impact9_4g.csv,RUPEE_5,RUPEE_5
+SVM,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+SVM,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+SVM,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+SVM,4,impact2_4g.csv,RUPEE_1,RUPEE_5
+SVM,4,impact2_4g.csv,RUPEE_1,RUPEE_2
+SVM,4,impact2_4g.csv,RUPEE_1,RUPEE_1
+SVM,4,impact2_4g.csv,RUPEE_1,RUPEE_1
+SVM,4,impact2_4g.csv,RUPEE_1,RUPEE_1
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_20
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_20
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+SVM,4,impact13_4g.csv,RUPEE_20,RUPEE_10
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_1
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_5
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_2
+SVM,4,impact6_4g.csv,RUPEE_2,RUPEE_1
+SVM,5,impact12_4g.csv,RUPEE_10,RUPEE_1
+SVM,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+SVM,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+SVM,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+SVM,5,impact12_4g.csv,RUPEE_10,RUPEE_5
+SVM,5,impact12_4g.csv,RUPEE_10,RUPEE_5
+SVM,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+SVM,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+SVM,5,impact12_4g.csv,RUPEE_10,RUPEE_10
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_10
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_2
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_10
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_5
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_2
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_1
+SVM,5,impact5_4g.csv,RUPEE_2,RUPEE_5
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_5
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_5
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_1
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_10
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_2
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_10
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_1
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_1
+SVM,5,impact7_4g.csv,RUPEE_5,RUPEE_2

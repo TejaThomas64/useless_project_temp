@@ -24,7 +24,7 @@ VIBRACOIN with its high-tech sophistication, analyses your coin's signature , pa
 [How are you solving it? Keep it fun!]
 We use an MPU6050 to detect vibrations detected by the plate and turn it into a readable format with an ESP32.This data is then passed through an ML model which uses a hierarchial architecture to deduce to coins value.Accuracy is mixed but still accurate if there is only few coins in the plate.We then pass this to another laptop using internet(TCP-IP).
 
-Technical Details
+### Technical Details
 
 Hardware
 
@@ -43,6 +43,11 @@ Signal Processing & ML
 
 AI Pipeline
 
+<img width="522" height="155" alt="image" src="https://github.com/user-attachments/assets/07b54ed0-9301-4f5e-bfe9-4ee41ccb08b7" />
+
+<img width="447" height="200" alt="image" src="https://github.com/user-attachments/assets/553deddc-39fe-45c4-bef7-57462ab6a64f" />
+
+
 - The ML prediction is passed to a locally running Liquid/LFM model through Ollama.
 - Liquid interprets the numerical prediction and impact characteristics.
 - The interpreted result is passed to the Gemini API, which generates a short, quirky Malayalam reaction.
@@ -50,11 +55,21 @@ AI Pipeline
 
 Backend
 
+
+
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/32d50c2b-f2bc-4022-a6d8-177e40117014" />
+<img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/b9da7983-a66e-4a9e-90d9-462ad18074e9" />
+
+
 - Node.js + Express handles communication between the hardware/ML system and the web application.
 - REST API endpoints receive predictions from the ESP32/ML pipeline.
 - WebSockets provide real-time updates to the frontend without polling.
 
 Frontend
+
+<img width="428" height="250" alt="image" src="https://github.com/user-attachments/assets/623ce6fa-a27b-4ec4-8001-a524d46ca6a9" />
+<img width="560" height="272" alt="image" src="https://github.com/user-attachments/assets/8eeafc09-7346-4ea7-a16f-c76571dfd1c1" />
+
 
 - React + Vite provides a live visualization dashboard.
 - Displays:
@@ -65,7 +80,7 @@ Frontend
   - Recent detections
   - AI-generated Malayalam reaction
   - Connection/model status
-- Browser-based Malayalam text-to-speech is used to speak the generated reaction.
+- Browser-based Malayalam text-to-speech using Gemini API is used to speak the generated reaction.
 
 Overall Pipeline
 
@@ -76,9 +91,9 @@ The system combines vibration sensing, signal processing, machine learning, loca
 ### Implementation
 
 # Run
-# 🚀 How to Run
 
-## Prerequisites
+
+### Prerequisites
 
 Make sure the following are installed:
 
@@ -92,7 +107,7 @@ Make sure the following are installed:
 
 ---
 
-## 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone <repository-url>
@@ -101,7 +116,7 @@ cd <repository-folder>
 
 ---
 
-## 2. Connect the Hardware
+### 2. Connect the Hardware
 
 Connect the **MPU6050** to the **ESP32**, then connect the ESP32 to the computer using a USB cable.
 
@@ -111,7 +126,7 @@ The ESP32 collects vibration and acceleration data from the MPU6050 and sends th
 
 ---
 
-## 3. Set Up the ML Environment
+### 3. Set Up the ML Environment
 
 Navigate to the ML directory:
 
@@ -153,7 +168,7 @@ python <ml-file>.py
 
 ---
 
-## 4. Start the Backend
+### 4. Start the Backend
 
 Open a new terminal and navigate to the backend directory:
 
@@ -181,7 +196,7 @@ npm start
 
 ---
 
-## 5. Start the Local LLM
+### 5. Start the Local LLM
 
 Run the **Liquid LFM 2.5B** model locally on the Windows system.
 
@@ -191,7 +206,7 @@ Make sure the LLM service is running before running the complete system.
 
 ---
 
-## 6. Start the Frontend
+### 6. Start the Frontend
 
 Open another terminal and navigate to the frontend directory:
 
@@ -215,7 +230,7 @@ Open the URL displayed in the terminal in your browser.
 
 ---
 
-## 7. System Pipeline
+### 7. System Pipeline
 
 Once all components are running, the complete system operates as follows:
 
@@ -261,7 +276,7 @@ Once all components are running, the complete system operates as follows:
 
 ---
 
-## ⚠️ Important Notes
+### ⚠️ Important Notes
 
 * Keep the ESP32 connected through USB while running the application.
 * Select the correct **COM/serial port** when uploading the ESP32 firmware.
@@ -271,11 +286,12 @@ Once all components are running, the complete system operates as follows:
 * If components cannot communicate with each other, verify that the required ports and services are running correctly.
 
 
-### Project Documentation
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
+<img width="678" height="1666" alt="image" src="https://github.com/user-attachments/assets/1ba1ad2e-edd2-49af-898c-61b32b1f7421" />
+
+Our project recieves data from the physical layer, processes it through an ML model on Linux laptop, which then passes the connections via TCP/IP to another laptop which then uses a local LLM (lfm2.5), to process it and then sends to Gemini API which outputs the final message.
 
 For Hardware:
 
@@ -284,20 +300,19 @@ For Hardware:
 
 
 
-MPU6050 and ESP32 connection.ESP32 is connected tot eh computer via USB.
+MPU6050 and ESP32 connection.ESP32 is connected to the computer via USB.
 
 # Build Photos
 Components
+
 <img width="515" height="388" alt="images" src="https://github.com/user-attachments/assets/f2d88fa1-4ee3-4bfc-9816-b6142ce1144c" />
 
 <img width="302" height="600" alt="image" src="https://github.com/user-attachments/assets/2ce5fc91-6e0f-4d83-9821-618b58d6474c" />
 
 MPU6050 → ESP32
 
-
-![Final](Add photo of final product here)
-*Explain the final build*
 <img width="1904" height="853" alt="Screenshot 2026-09-12 063313" src="https://github.com/user-attachments/assets/73a3af7b-60c9-4d8f-a8ed-427f83c2ab7c" />
+
 
 ### Project Demo
 # Video
@@ -306,7 +321,7 @@ https://drive.google.com/file/d/1kxt9m2ZNvLMUYOdukarecUf_LKHvZxtk/view?usp=drive
 
 
 ## Team Contributions
-- Teja Thomas: Gemini API and local Liquid AI modal
+- Teja Thomas: Gemini API,Fullstack web-hosting and local Liquid AI modal
 - Nathan George: Local ML model predicting coin values and esp32 , mpu6050 vibration reader
 
 ---

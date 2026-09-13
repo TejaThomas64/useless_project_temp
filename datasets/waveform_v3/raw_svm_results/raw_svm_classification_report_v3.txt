@@ -1,0 +1,17 @@
+RAW WAVEFORM + PCA + SVM V3
+============================
+
+Mean accuracy: 14.01%
+Std deviation: 15.82%
+
+              precision    recall  f1-score   support
+
+     RUPEE_1       0.16      0.37      0.23        27
+     RUPEE_2       0.15      0.37      0.22        27
+     RUPEE_5       0.00      0.00      0.00        30
+    RUPEE_10       0.00      0.00      0.00        33
+    RUPEE_20       0.00      0.00      0.00        20
+
+    accuracy                           0.15       137
+   macro avg       0.06      0.15      0.09       137
+weighted avg       0.06      0.15      0.09       137
